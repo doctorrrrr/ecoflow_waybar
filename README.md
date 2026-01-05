@@ -1,6 +1,9 @@
 # EcoFlow Monitor for Sway/Waybar 🔋🛰️
 
-A mission-critical power monitoring utility for **EcoFlow Power Stations**, specifically engineered for Linux environments (SwayWM/Wayland).
+<img width="1919" height="49" alt="зображення" src="https://github.com/user-attachments/assets/f91a35bb-2914-43ea-aac7-1daf08e485ef" />
+
+A mission-critical power monitoring utility for **EcoFlow Power Stations**
+ecifically engineered for Linux environments (SwayWM/Wayland).
 
 ## 🌍 Context: Engineering Under Pressure
 This project was born out of necessity during the energy crisis in Ukraine. When official software is unavailable for Linux, and continuous power is vital for remote work during blackouts, I developed this tool to bridge the gap between IoT hardware and the Linux desktop.
